@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9246
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19869#While-Caroline-Was-Growing
 gutenberg_issued: '2006-11-19'
 gutenberg_type: Text
 identifiers:
